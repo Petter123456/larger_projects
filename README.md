@@ -1,1 +1,1 @@
-This is the answer to the Cats and the Hats Bonus Challenge
+This is a large project for the REPL game.
