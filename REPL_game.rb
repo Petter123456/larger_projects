@@ -31,3 +31,4 @@ while wrongs < 5 do
      break
 end
 end
+This game sucks
